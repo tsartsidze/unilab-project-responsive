@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Helvetica";
+  src: url("../fonts/");
+  src: url("../fonts/") format("embedded-opentype"),
+    url("../fonts/Helvetica-BoldOblique.woff2") format("woff2"),
+    url("../fonts/Helvetica-BoldOblique.woff") format("woff"),
+    url("../fonts/Helvetica-BoldOblique.svg#Helvetica-BoldOblique")
+      format("svg");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
